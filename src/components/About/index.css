@@ -1,0 +1,33 @@
+.a-c {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 85vh;
+}
+
+.a-card {
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+  height: 100px;
+  align-items: center;
+}
+
+.a-h1 {
+  color: #1e293b;
+  font-size: 35px;
+  font-weight: 500;
+}
+.a-img1 {
+  width: 100%;
+}
+
+.d-a-h1 {
+  color: #ffffff;
+}
+.l-a-h1 {
+  color: #1e293b;
+}
+.d-a-c {
+  background-color: #000000;
+}

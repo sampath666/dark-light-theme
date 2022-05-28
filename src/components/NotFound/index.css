@@ -1,0 +1,35 @@
+.nt-c {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 85vh;
+}
+
+.n-card {
+  display: flex;
+  flex-direction: column;
+  width: 500px;
+  height: 400px;
+  align-items: center;
+}
+
+.nt-h1 {
+  font-size: 35px;
+  font-weight: 500;
+}
+.nt-img1 {
+  width: 50%;
+}
+
+.n-p1 {
+  color: #1e293b;
+  font-size: 15px;
+}
+
+.d-nt-h1 {
+  color: #ffffff;
+}
+
+.d-nt-c {
+  background-color: #000000;
+}
